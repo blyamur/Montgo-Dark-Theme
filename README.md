@@ -20,7 +20,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 
 ### Screenshots
 >Скриншоты
-![Montgo](https://github.com/blyamur/Montgo-Dark/blob/master/montgo/screenshot.png)
+![Montgo](https://github.com/blyamur/Montgo-Dark/blob/master/montgo_d/screenshot.png)
 
 ### Demo / Демо
 [10foto.ru](https://10foto.ru)
