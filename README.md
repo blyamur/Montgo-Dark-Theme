@@ -28,7 +28,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 ### Copyrights and Licenses
 Not for commercial use.
 
-© 2020 [Mons](https://blog.mons.ws)
+© 2021 [Mons](https://blog.mons.ws)
 
 [Light version Light and minimalistic free Wordpress theme.](https://github.com/blyamur/Montgo)
 > [Светлая версия Легкой и минималистичная  бесплатной Wordpress темы.](https://github.com/blyamur/Montgo)
