@@ -30,6 +30,8 @@ Not for commercial use.
 
 © 2021 [Mons](https://blog.mons.ws)
 
+### You may also be interested in the light version
+> Так же вас возможно заинтересует светлый вариант
 [Light version Light and minimalistic free Wordpress theme.](https://github.com/blyamur/Montgo)
 > [Светлая версия Легкой и минималистичная  бесплатной Wordpress темы.](https://github.com/blyamur/Montgo)
 
