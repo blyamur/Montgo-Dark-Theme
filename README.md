@@ -1,5 +1,5 @@
-# Montgo Dark - Dark version of simple and free Wordpress theme.
-> Montgo Dark - Темная версия простой и бесплатной Wordpress темы.
+# Montgo Dark - Dark version of simple Wordpress theme.
+> Montgo Dark - Темная версия простой Wordpress темы.
 
 Montgo Dark is a Clean and Minimalist for blogging theme that offers a beautiful and modern design to your Wordpress site, 
 without excess elements. Use theme topic, make an interesting blog, share knowledge and positive with other people.
