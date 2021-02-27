@@ -23,7 +23,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 ![Montgo](https://github.com/blyamur/Montgo-Dark/blob/master/montgo/screenshot.png)
 
 ### Demo / Демо
-[10foto.r](https://10foto.ru)
+[10foto.ru](https://10foto.ru)
 
 ### Copyrights and Licenses
 Not for commercial use.
