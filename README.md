@@ -40,7 +40,7 @@ Not for commercial use.
 ### Did you find this useful?!
 > Вы нашли это  полезным ?!
 
-Happy to hear that :) *If You want to help me, you can buy me a cup of  [cup of coffee](https://yoomoney.ru/to/41001158104834)*
+Happy to hear that :) *If You want to help me, you can buy me a cup of cup of coffee ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [PayPal](https://paypal.me/enkonu) )*
 
 > Рад это слышать :) Если вы хотите мне помочь, вы можете угостить меня чашкой кофе
 
