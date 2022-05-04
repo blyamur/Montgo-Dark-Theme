@@ -1,3 +1,5 @@
+![https://github.com/blyamur/Montgo/blob/master/montgo/frwl33.png](https://github.com/blyamur/Montgo/blob/master/montgo/frwl33.png)
+
 # Montgo Dark - Dark version of simple Wordpress theme.
 > Montgo Dark - Темная версия простой Wordpress темы.
 
@@ -22,13 +24,11 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 >Скриншоты
 ![Montgo](https://github.com/blyamur/Montgo-Dark/blob/main/montgo_d/screenshot.png)
 
-### Demo / Демо
-[10foto.ru](https://10foto.ru)
 
 ### Copyrights and Licenses
 Not for commercial use.
 
-© 2022 [Mons](https://blog.mons.ws)
+© 2022 
 
 ### You may also be interested in the light version
 > Так же вас возможно заинтересует светлый вариант
